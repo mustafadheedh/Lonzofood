@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Frozen Taro &#8211; VinLeaf</title>
+	<atom:link href="https://vinleaf.com/tag/frozen-taro/feed" rel="self" type="application/rss+xml" />
+	<link>https://vinleaf.com</link>
+	<description>VinLeaf.com</description>
+	<lastBuildDate>Mon, 20 May 2019 08:19:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.11</generator>
+
+<image>
+	<url>https://vinleaf.com/wp-content/uploads/2019/04/cropped-logo-512-32x32.png</url>
+	<title>Frozen Taro &#8211; VinLeaf</title>
+	<link>https://vinleaf.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Frozen Taro Cube</title>
+		<link>https://vinleaf.com/frozen-taro-cube.html</link>
+		
+		<dc:creator><![CDATA[Saka Sales]]></dc:creator>
+		<pubDate>Mon, 13 May 2019 06:47:12 +0000</pubDate>
+				<category><![CDATA[Frozen Vegetables]]></category>
+		<category><![CDATA[Vegetable Products]]></category>
+		<category><![CDATA[Frozen Taro]]></category>
+		<category><![CDATA[Taro]]></category>
+		<guid isPermaLink="false">https://vinleaf.com/?p=312</guid>
+
+					<description><![CDATA[<p>Frozen taro cube have an average size of 3x3x3 cm or larger. The size depends on the customer. The taro...</p>
+<p>The post <a rel="nofollow" href="https://vinleaf.com/frozen-taro-cube.html">Frozen Taro Cube</a> appeared first on <a rel="nofollow" href="https://vinleaf.com">VinLeaf</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Frozen Taro Strip</title>
+		<link>https://vinleaf.com/frozen-taro-strip.html</link>
+		
+		<dc:creator><![CDATA[Saka Sales]]></dc:creator>
+		<pubDate>Mon, 13 May 2019 06:46:33 +0000</pubDate>
+				<category><![CDATA[Frozen Vegetables]]></category>
+		<category><![CDATA[Vegetable Products]]></category>
+		<category><![CDATA[Frozen Taro]]></category>
+		<category><![CDATA[Taro]]></category>
+		<guid isPermaLink="false">https://vinleaf.com/?p=310</guid>
+
+					<description><![CDATA[<p>Frozen taro strip are vacuum packed, taro are shredded into big fibers that can be about 10cm in size, about...</p>
+<p>The post <a rel="nofollow" href="https://vinleaf.com/frozen-taro-strip.html">Frozen Taro Strip</a> appeared first on <a rel="nofollow" href="https://vinleaf.com">VinLeaf</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Frozen Taro Half Cut</title>
+		<link>https://vinleaf.com/frozen-taro-half-cut.html</link>
+					<comments>https://vinleaf.com/frozen-taro-half-cut.html#comments</comments>
+		
+		<dc:creator><![CDATA[Saka Sales]]></dc:creator>
+		<pubDate>Mon, 13 May 2019 06:46:27 +0000</pubDate>
+				<category><![CDATA[Frozen Vegetables]]></category>
+		<category><![CDATA[Vegetable Products]]></category>
+		<category><![CDATA[Frozen Taro]]></category>
+		<category><![CDATA[Taro]]></category>
+		<guid isPermaLink="false">https://vinleaf.com/?p=311</guid>
+
+					<description><![CDATA[<p>The Frozen Taro will be peeled, cleaned, cut in haft and frozen. Frozen Taro Haft Cut is packed in 500g...</p>
+<p>The post <a rel="nofollow" href="https://vinleaf.com/frozen-taro-half-cut.html">Frozen Taro Half Cut</a> appeared first on <a rel="nofollow" href="https://vinleaf.com">VinLeaf</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://vinleaf.com/frozen-taro-half-cut.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

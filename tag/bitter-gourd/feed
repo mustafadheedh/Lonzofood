@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bitter Gourd &#8211; VinLeaf</title>
+	<atom:link href="https://vinleaf.com/tag/bitter-gourd/feed" rel="self" type="application/rss+xml" />
+	<link>https://vinleaf.com</link>
+	<description>VinLeaf.com</description>
+	<lastBuildDate>Fri, 03 May 2019 05:25:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.11</generator>
+
+<image>
+	<url>https://vinleaf.com/wp-content/uploads/2019/04/cropped-logo-512-32x32.png</url>
+	<title>Bitter Gourd &#8211; VinLeaf</title>
+	<link>https://vinleaf.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Frozen Bitter Melon Slices</title>
+		<link>https://vinleaf.com/frozen-bitter-melon-slices.html</link>
+		
+		<dc:creator><![CDATA[Saka Sales]]></dc:creator>
+		<pubDate>Thu, 04 Apr 2019 08:24:20 +0000</pubDate>
+				<category><![CDATA[Food & Beverage]]></category>
+		<category><![CDATA[Frozen Vegetables]]></category>
+		<category><![CDATA[Vegetable Products]]></category>
+		<category><![CDATA[Bitter Gourd]]></category>
+		<category><![CDATA[Bitter Melon]]></category>
+		<guid isPermaLink="false">https://vinleaf.com/?p=142</guid>
+
+					<description><![CDATA[<p>The process of making Frozen Bitter Melon Slices is similar Frozen Bitter Melon Cut , after cutting in half and...</p>
+<p>The post <a rel="nofollow" href="https://vinleaf.com/frozen-bitter-melon-slices.html">Frozen Bitter Melon Slices</a> appeared first on <a rel="nofollow" href="https://vinleaf.com">VinLeaf</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Frozen Bitter Melon Cut/Whole</title>
+		<link>https://vinleaf.com/frozen-bitter-melon-cut-whole.html</link>
+					<comments>https://vinleaf.com/frozen-bitter-melon-cut-whole.html#comments</comments>
+		
+		<dc:creator><![CDATA[Saka Sales]]></dc:creator>
+		<pubDate>Mon, 01 Apr 2019 03:53:13 +0000</pubDate>
+				<category><![CDATA[Food & Beverage]]></category>
+		<category><![CDATA[Frozen Vegetables]]></category>
+		<category><![CDATA[Vegetable Products]]></category>
+		<category><![CDATA[Bitter Gourd]]></category>
+		<category><![CDATA[Bitter Melon]]></category>
+		<guid isPermaLink="false">https://vinleaf.com/?p=104</guid>
+
+					<description><![CDATA[<p>Bitter melon (scientific name is Momordica charantia) originated in Africa, Asia and was domesticated in India. Bitter melon is used...</p>
+<p>The post <a rel="nofollow" href="https://vinleaf.com/frozen-bitter-melon-cut-whole.html">Frozen Bitter Melon Cut/Whole</a> appeared first on <a rel="nofollow" href="https://vinleaf.com">VinLeaf</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://vinleaf.com/frozen-bitter-melon-cut-whole.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
